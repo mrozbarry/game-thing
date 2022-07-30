@@ -1,0 +1,18 @@
+{
+  "name": "side-scrolling-platformer",
+  "version": "0.0.1-beta.0",
+  "description": "A side-scrolling platformer game",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Vehikl Growth Sessions",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^4.3.1"
+  },
+  "dependencies": {
+    "declarativas": "^0.0.1-beta.15"
+  }
+}
